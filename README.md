@@ -1,2 +1,2 @@
 # slack-music-status
-now music playing status slack app with Last.fm
+:musical_note: now music playing status slack app with Last.fm
